@@ -37,6 +37,7 @@ gem 'devise'
 gem 'materialize-sass'
 gem 'material_icons'
 gem 'redis'
+gem 'cancancan'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
